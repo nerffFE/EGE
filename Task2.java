@@ -1,7 +1,7 @@
 package Task2;
 
 import java.io.FileWriter;
-
+// Таблица истинности логического выражения. Решение перебором. 
 public class Task2 {
     public static void main(String[] args) {
         System.out.println("w z y x F");
